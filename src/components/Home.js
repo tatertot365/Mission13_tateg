@@ -1,6 +1,9 @@
 import React from 'react';
 import JoelHilton from './JoelHiltonHeadshot.jpg';
 
+{
+    /* This is the home page of the website. */
+}
 const Home = () => {
     return (
         <div className="container mt-5">

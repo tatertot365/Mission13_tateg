@@ -1,5 +1,6 @@
 import React from 'react';
 
+// This is the podcasts page of the website.
 const Podcasts = () => {
     return (
         <div className="container">

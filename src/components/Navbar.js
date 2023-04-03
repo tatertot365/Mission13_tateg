@@ -10,6 +10,7 @@ import {
 } from 'react-router-dom';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
+// This is the navbar component that will be used on every page.
 const Navbar = () => {
     return (
         <Router>

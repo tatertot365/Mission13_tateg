@@ -1,6 +1,10 @@
 import React from 'react';
 import MovieData from './MovieData.json';
 
+{
+    /* This is the movies page of the website. 
+    It takes the Movies JSON data and outputs it into a table */
+}
 const Movies = () => {
     return (
         <div className="container">
